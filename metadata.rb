@@ -1,4 +1,4 @@
-name             'HelloWorld'
+name             'SampleChefRecipie'
 maintainer       'EDT'
 maintainer_email 'priyeshwani@gmail.com'
 license          'All rights reserved'
