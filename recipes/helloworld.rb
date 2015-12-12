@@ -1,3 +1,3 @@
-file 'hello.txt' do
+file '/tmp/hello.txt' do
   content 'Welcome to Chef'
 end
